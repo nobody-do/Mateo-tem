@@ -1,10 +1,9 @@
-# 『𝑴𝒂𝒕𝒆𝒐ᵗᵉᵐ』
+# 👋 ¡Hola, yo soy Mateo!
 
-📞 | Discord: 『𝑴𝒂𝒕𝒆𝒐ᵗᵉᵐ』#9999
+- Discord: 『𝑴𝒂𝒕𝒆𝒐ᵗᵉᵐ』#9999
 
-[Mi Servidor Oficial: Discord Bots](https://www.discord.gg/jD3xDVsqdr)
+- [Mi Servidor Oficial: Discord Bots](https://www.discord.gg/jD3xDVsqdr)
 
-Hey! Hola, yo soy Mateo,
 > Muchos me conocen, otros no, pero espero que me puedas conocer aquí :D
 
 - Desarrollador de Bots en Discord. Actualmente desarrollo uno.
@@ -18,7 +17,7 @@ Hey! Hola, yo soy Mateo,
 
 # 🎯 Metas
 
-> Tengo muchos proyectos y metas a que llegar. Siempre trato de ser una persona perseverante en lo que hago y peldaño a peldaño, lo lograré. Quiero...
+> Tengo muchos proyectos y metas a que llegar. Siempre trato de ser una persona perseverante en lo que hago. Quiero...
 
 - 🔴 Aprender otros lenguajes (Python, HTML, CSS, R).
 - 🟡 Crear un bot que sea muy útil en Discord.
