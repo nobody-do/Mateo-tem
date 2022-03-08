@@ -12,9 +12,7 @@
 
 ---
 
-I am a **Discord Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **TypeScript**, **HTML** and **CSS**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
-
-# 👋 Hi, I am Mateo!
+👋 Hi, I am a **Discord Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **TypeScript**, **HTML** and **CSS**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
 
 <h2>What I use:</h2>
   
@@ -36,7 +34,7 @@ I always try to be a persevering person in what I do. Everything wil require eff
 - Create **Discord Bots templates** on GitHub.
   
 <h2>Stats</h2>
-<a href="https://github.com/Mateo-tem"><img src="https://komarev.com/ghpvc/?username=Mateo-tem" alt="Website Badge"/></a>
+<a href="https://github.com/Mateo-tem"><img src="https://komarev.com/ghpvc/?username=Mateo-tem" alt="Profile Views"/></a>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=mateo-tem&show_icons=true&theme=radical" />
 <img width="37%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/910543706489237544?bg=1f1f1f&borderRadius=5px">
