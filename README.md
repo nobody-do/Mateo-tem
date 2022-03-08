@@ -26,7 +26,7 @@
   
 <h2>Goals:</h2>
 
-I always try to be a persevering person in what I do. Everything wil require effor and dedication.
+I always try to be a persevering person in what I do. Everything wil require effort and dedication.
   
 - Learn other languages like **Python, R, Java**, etc.
 - Create a **Professional and Verified Discord Bot.**
