@@ -1,28 +1,45 @@
-# 👋 ¡Hola, yo soy Mateo!
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Mateo-tem" src="https://avatars.githubusercontent.com/u/79017590?v=4">
 
-- Discord: 『𝑴𝒂𝒕𝒆𝒐ᵗᵉᵐ』#9999
+# MateoDeveloper
 
-- [Mi Servidor Oficial: Discord Bots](https://www.discord.gg/jD3xDVsqdr)
 
-> Muchos me conocen, otros no, pero espero que me puedas conocer aquí :D
+<div>
+  <a href="https://github.com/Mateo-tem"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/Mateo-tem" alt="GitHub Badge"/></a>
+  <a href="https://twitter.com/MateoDeveloper_"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>
+  <a href="https://discord.com/users/910543706489237544"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=white&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
+</div>
 
-- Desarrollador de Bots en Discord. Actualmente desarrollo uno.
-- Trabajo en JavaScript (JS), sobre todo con el entorno de Node.js.
-- Soy propietario del canal "Discord Bots", que es un canal en donde enseño a programar Bots de Discord en Español desde cero.
-- Tengo muchas ganas de seguir programando y tengo en mente muchos proyectos que próximamente los publicaré.
 
-# 📜 Historia
+---
 
-> Conocí Discord en 2020. Me pareció todo un nuevo mundo, ya que personalmente no conocía mucho de redes sociales o chats. En realidad, Discord me abrió las puertas a nuevas oportunidades. Este nuevo mundo, me parecía muy bueno y creo que eso determinaría mi futuro. Conocí a los Bots, y todo cambió. Descubrí que los bots eran programados y me dí cuenta en ese momento que yo podía hacer mi propio bot. Empecé a investigar y es así como aprendí a programar. Empecé con un borrador de bot y fui mejorándolo. Se dice que con práctica se puede todo, y así fue. 
+I am a **Discord Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **TypeScript**, **HTML** and **CSS**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
 
-# 🎯 Metas
+# 👋 Hi, I am Mateo!
 
-> Tengo muchos proyectos y metas a que llegar. Siempre trato de ser una persona perseverante en lo que hago. Quiero...
+<h2>What I use:</h2>
+  
+<a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
+<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
+<a href="https://typescriptlang.org/"><img src="https://img.icons8.com/color/30/000000/typescript.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0175c5/visual-studio-logo.png"/></a>
+<a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
+  
+<h2>Goals:</h2>
 
-- 🔴 Aprender otros lenguajes (Python, HTML, CSS, R).
-- 🟡 Crear un bot que sea muy útil en Discord.
-- 🟢 Crear una NPM propia.
+I always try to be a persevering person in what I do. Everything wil require effor and dedication.
+  
+- Learn other languages like **Python, R, Java**, etc.
+- Create a **Professional and Verified Discord Bot.**
+- Create useful **(really useful) npm package.**
+- Create **Discord Bots templates** on GitHub.
+  
+<h2>Stats</h2>
+<a href="https://github.com/Mateo-tem"><img src="https://komarev.com/ghpvc/?username=Mateo-tem" alt="Website Badge"/></a>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=mateo-tem&show_icons=true&theme=radical" />
+<img width="37%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/910543706489237544?bg=1f1f1f&borderRadius=5px">
+</div>
 
-# 👀 Github
-
-> ¿Qué es lo que pienso hacer en Github? Pues, quiero compartir todos mis proyectos y conocimientos con ustedes para que puedan progresar como programadores.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateo-tem&layout=compact&theme=radical" />  
