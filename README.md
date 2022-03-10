@@ -25,8 +25,10 @@
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
 <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/30/000000/npm.png"/></a>
+
+I started programming on **December, 2020**. I made a Discord Bot on **JavaScript**. It was very difficult at the beginning, but then, with practice, everything became easier. With some experience, I started projects. Some failed, others are still in progress. I hope one day to fulfill these projects. Thanks to these "Little Projects", I learned (still learning) a little bit of other languages, such as **TypeScript, HTML and CSS**.
   
-<h2>Goals:</h2>
+<h2>Future Projects/Goals:</h2>
 
 I always try to be a persevering person in what I do. Everything wil require effort and dedication.
   
