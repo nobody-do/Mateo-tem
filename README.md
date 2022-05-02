@@ -15,8 +15,8 @@
 👋 Hi, I am a **Discord Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **TypeScript**, **HTML** and **CSS**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
 
 <h2>What I use:</h2>
-  
-<a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
+
+> <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
 <a href="https://typescriptlang.org/"><img src="https://img.icons8.com/color/30/000000/typescript.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
@@ -30,7 +30,7 @@ I started programming on **December, 2020**. I made a Discord Bot on **JavaScrip
   
 <h2>Future Projects/Goals:</h2>
 
-I always try to be a persevering person in what I do. Everything wil require effort and dedication.
+I always try to be a persevering person in what I do. Everything will require effort and dedication.
   
 - Learn other languages like **Python, R, Java**, etc.
 - Create a **Professional and Verified Discord Bot.**
