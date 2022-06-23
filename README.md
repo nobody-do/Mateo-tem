@@ -5,14 +5,15 @@
 
 <div>
   <a href="https://github.com/Mateo-tem"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/Mateo-tem" alt="GitHub Badge"/></a>
-  <a href="https://twitter.com/MateoDeveloper_"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>
-  <a href="https://discord.com/users/910543706489237544"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=white&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
+  <a href="https://twitter.com/MateoDeveloper_"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>
+  <a href="https://discord.com/users/910543706489237544"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
+<a href="https://paypal.me/MateoDeveloper"><img src="https://img.shields.io/badge/-PayPal-000000?style=flat-square&labelColor=000000&logo=paypal&logoColor=white&link=https://paypal.me/MateoDeveloper" alt="PayPal Badge"/></a>
 </div>
 
 
 ---
 
-👋 Hi, I am a **Discord Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **TypeScript**, **HTML** and **CSS**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
+👋 Hi, my name is **Mateo**, I'm a **[Discord](https://discord.com/) Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **TypeScript**, **HTML** and **CSS**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
 
 <h2>What I use:</h2>
 
@@ -26,15 +27,12 @@
 <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/30/000000/npm.png"/></a>
 
-I started programming on **December, 2020**. I made a Discord Bot on **JavaScript**. It was very difficult at the beginning, but then, with practice, everything became easier. With some experience, I started projects. Some failed, others are still in progress. I hope one day to fulfill these projects. Thanks to these "Little Projects", I learned (still learning) a little bit of other languages, such as **TypeScript, HTML and CSS**.
+I started programming on **December, 2020**. With some experience, I started projects. Some failed, others are still in progress. I hope one day to fulfill these projects. Thanks to these "Little Projects", I learned (still learning) a little bit of other languages, such as **TypeScript, HTML and CSS**.
   
-<h2>Future Projects/Goals:</h2>
-
-I always try to be a persevering person in what I do. Everything will require effort and dedication.
+<h2>📝 Future Projects/Goals:</h2>
   
 - Learn other languages like **Python, R, Java**, etc.
-- Create a **Professional and Verified Discord Bot.**
-- Create useful **(really useful) npm package.**
+- Create a **Professional Discord Bot**, and if it's possible, a verified one.
 - Create **Discord Bots templates** on GitHub.
   
 <h2>Stats</h2>
