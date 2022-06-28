@@ -2,7 +2,6 @@
 
 # MateoDeveloper
 
-
 <div>
   <a href="https://github.com/Mateo-tem"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/Mateo-tem" alt="GitHub Badge"/></a>
   <a href="https://twitter.com/MateoDeveloper_"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>
@@ -11,11 +10,10 @@
 </div>
 
 
+
 ---
 
 👋 Hi, my name is **Mateo**, I'm a **[Discord](https://discord.com/) Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **TypeScript**, **HTML** and **CSS**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
-
-<h2>What I use:</h2>
 
 > <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
@@ -25,17 +23,21 @@
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0175c5/visual-studio-logo.png"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
 <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
+<a href="https://www.heroku.com/"><img src="https://img.icons8.com/color/30/000000/heroku.png"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/30/000000/npm.png"/></a>
+
+- **Pronouns:** He/Him
 
 I started programming on **December, 2020**. With some experience, I started projects. Some failed, others are still in progress. I hope one day to fulfill these projects. Thanks to these "Little Projects", I learned (still learning) a little bit of other languages, such as **TypeScript, HTML and CSS**.
   
-<h2>📝 Future Projects/Goals:</h2>
+<h2>📝 Future Goals:</h2>
   
 - Learn other languages like **Python, R, Java**, etc.
 - Create a **Professional Discord Bot**, and if it's possible, a verified one.
 - Create **Discord Bots templates** on GitHub.
   
-<h2>Stats</h2>
+<h2>📊 Stats:</h2>
+
 <a href="https://github.com/Mateo-tem"><img src="https://komarev.com/ghpvc/?username=Mateo-tem" alt="Profile Views"/></a>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=mateo-tem&show_icons=true&theme=radical" />
