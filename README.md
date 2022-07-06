@@ -13,7 +13,7 @@
 
 ---
 
-👋 Hi, my name is **Mateo**, I'm a **[Discord](https://discord.com/) Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **TypeScript**, **HTML** and **CSS**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
+👋 Hi, my name is **Mateo**, I'm from Peru and I'm a **[Discord](https://discord.com/) Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **TypeScript**, **HTML** and **CSS**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
 
 > <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
@@ -38,10 +38,5 @@ I started programming on **December, 2020**. With some experience, I started pro
   
 <h2>📊 Stats:</h2>
 
-<a href="https://github.com/Mateo-tem"><img src="https://komarev.com/ghpvc/?username=Mateo-tem" alt="Profile Views"/></a>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=mateo-tem&show_icons=true&theme=radical" />
-<img width="37%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/910543706489237544?bg=1f1f1f&borderRadius=5px">
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateo-tem&layout=compact&theme=radical" />  
+| <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/910543706489237544?bg=1f1f1f&borderRadius=5px"> | <img src="https://github-readme-stats.vercel.app/api?username=mateo-tem&show_icons=true&theme=radical" /> |
+|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
