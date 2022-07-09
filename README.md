@@ -38,5 +38,7 @@ I started programming on **December, 2020**. With some experience, I started pro
   
 <h2>📊 Stats:</h2>
 
+<a href="https://github.com/Mateo-tem"><img src="https://komarev.com/ghpvc/?username=Mateo-tem" alt="Profile Views"/></a>
+
 | <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/910543706489237544?bg=1f1f1f&borderRadius=5px"> | <img src="https://github-readme-stats.vercel.app/api?username=mateo-tem&show_icons=true&theme=radical" /> |
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
